@@ -10,7 +10,7 @@ data:extend(
     ingredients =
     {
       {type="fluid", name="water", amount=0.5},
-      {type="item", name="raw-wood", amount=4},
+      {type="item", name="wood", amount=4},
     },
     result = "carbon",
     result_count = 2,
