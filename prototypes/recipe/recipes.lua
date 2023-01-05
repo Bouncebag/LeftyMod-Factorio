@@ -2,7 +2,7 @@ data:extend(
 {
     {
     type = "recipe",
-    name = "carbon-2",
+    name = "carbon-left",
     category = "chemical-furnace",
     subgroup = "bob-material-chemical",
     energy_required = 2,
