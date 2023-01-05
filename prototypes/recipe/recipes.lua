@@ -9,7 +9,7 @@ data:extend(
     enabled = false,
     ingredients =
     {
-      {type="fluid", name="water", amount=0.5},
+      {type="fluid", name="water", amount=5},
       {type="item", name="wood", amount=4},
     },
     result = "carbon",
