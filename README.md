@@ -1,5 +1,8 @@
 # LeftyMod-Factorio
-![factorio-logo](https://user-images.githubusercontent.com/13615401/211063406-b92a6913-5bf4-4deb-b31c-a2d2cf4ff8e8.png)
+
+https://mods.factorio.com/mod/Leftymod
+
+![factorio-logo](https://user-images.githubusercontent.com/13615401/211063406-b92a6913-5bf4-4deb-b31c-a2d2cf4ff8e8.png) <br/>
 This mod creates an alternative method to create plastic without coal, and also (if mining sulfur with Bob's Ores) without using Oil/Petroleum Gas. It unlocks along with the original recipes for carbon and plastic
 
 ![FactorioPlasticFromCarbon-1 1](https://user-images.githubusercontent.com/13615401/211063438-ed842c84-4f13-4a2e-8659-77ff3227ac16.png)
